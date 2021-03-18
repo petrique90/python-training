@@ -1,6 +1,8 @@
 import random
 
+#Add your own name here
 name = "Pete"
+#Ask your question here
 question = "Should i have a beer?"
 answer = ""
 
